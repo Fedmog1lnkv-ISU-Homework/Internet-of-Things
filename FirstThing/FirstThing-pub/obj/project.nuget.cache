@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfV+SnMy9hLzPwP5ng0wXeWnJ/WpdilTALPxgVaJaPDTpgaPfP7N27EWJcN6NvCaEBiGOU+Vi08Bhtk6R/ADgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuzne\\OneDrive\\Рабочий стол\\test_iot\\FirstThing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuzne\\.nuget\\packages\\mqttnet\\4.3.1.873\\mqttnet.4.3.1.873.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.3.1.873\\mqttnet.extensions.managedclient.4.3.1.873.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\kuzne\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
